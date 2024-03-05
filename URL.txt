@@ -1,0 +1,15 @@
+//Github repo URL 
+
+https://github.com/Vidhya0501/nodejs-filesystem/tree/main
+
+//Render URL without endpoint
+
+https://nodejs-filesystem-6skm.onrender.com/
+
+// API endpoint to create a text file with current timestamp
+
+https://nodejs-filesystem-6skm.onrender.com/createFile
+
+// API endpoint to retrieve all text files in the folder
+
+https://nodejs-filesystem-6skm.onrender.com/getTextFiles
